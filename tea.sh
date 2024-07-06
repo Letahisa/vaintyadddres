@@ -1,10 +1,11 @@
 git add .
 git init
 git add README.md
-git clone https://github.com/xtgz/zerion_farm.git && cd zerion_farm
-cp -r zerion_farm/third_party /workspaces/vaintyadddres
+git clone https://github.com/IrfanDect/stay_tea.git && cd stay_tea
+cp -r node_modules /workspaces/vaintyadddres
 cd /workspaces/vaintyadddres
-git add third_party
+rm -rf stay_tea
+git add node_modules
 git add vaintyadddres
 git commit -m "first commit"
 git branch -M main

@@ -1,0 +1,22 @@
+{
+  "name": "vaintyadddres",
+  "version": "1.0.0",
+  "description": "vanty",
+  "main": "index.js",
+  "scripts": {
+    "test": "vanty"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Letahisa/vaintyadddres"
+  },
+  "keywords": [
+    "vanty"
+  ],
+  "author": "Letahisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Letahisa/vaintyadddres/issues"
+  },
+  "homepage": "https://github.com/Letahisa/vaintyadddres#readme"
+}
